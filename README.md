@@ -30,4 +30,4 @@ Every case file is contained in its own clean directory, featuring a dedicated p
 * **Primary Libraries:** NumPy, Pandas
 
 ---
-*“Consistency beats talent. I code every day, review every bug, and treat data science not just as a tool, but as my professional identity.”* ```
+*“Consistency beats talent. I code every day, review every bug, and treat data science not just as a tool, but as my professional identity.”*
